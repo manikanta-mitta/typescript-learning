@@ -1,2 +1,6 @@
-let a = 10;
-alert(a);
+function display() {
+    let a = "Hello world!";
+    alert(a);
+}
+
+display();
